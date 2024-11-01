@@ -12,10 +12,12 @@
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />  
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React" />      
 </div>
 <div align="center">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React" />      
   <img src="https://img.shields.io/badge/Redux_Toolkit-%23834383.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/Redux%20Persist-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Persist" />  
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />  
 </div>
@@ -39,10 +41,12 @@
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />      
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </div>
 <div align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=aws&logoColor=white" alt="AWS S3" />
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/AWS%20CloudFront-F3A900?style=for-the-badge&logo=amazoncloudfront&logoColor=000000" alt="CloudFront" />
   <img src="https://img.shields.io/badge/AWS%20Route%2053-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Route 53" />
 </div>
