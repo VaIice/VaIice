@@ -8,11 +8,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React" />    
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />  
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React" />      
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/Redux_Toolkit-%23834383.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/Redux%20Persist-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Persist" />  
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />  
