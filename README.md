@@ -35,11 +35,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />    
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />    
 </div>
 <div align="center">
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />      
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=aws&logoColor=white" alt="AWS S3" />
   <img src="https://img.shields.io/badge/AWS%20CloudFront-F3A900?style=for-the-badge&logo=amazoncloudfront&logoColor=000000" alt="CloudFront" />
   <img src="https://img.shields.io/badge/AWS%20Route%2053-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Route 53" />
