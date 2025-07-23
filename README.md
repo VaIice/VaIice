@@ -10,4 +10,10 @@
 
   <h3>🖥 Backend 🖥</h3>
   <p>Node.js, Express, MySQL</p>
+
+  <h3>🧪 Test 🧪</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+  </p>
 </div>
