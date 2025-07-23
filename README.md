@@ -3,17 +3,17 @@
 
   <br><br>
 
-  <h3>🎨 Frontend 🎨</h3>
+  <h3>🎨 Frontend</h3>
   <p>JavaScript, TypeScript, React.js, Next.js</p>
 
   <br>
 
-  <h3>🖥 Backend 🖥</h3>
+  <h3>🖥 Backend</h3>
   <p>Node.js, Express, MySQL</p>
 
   <br>
 
-  <h3>🧪 Test 🧪</h3>
+  <h3>🧪 Test</h3>
   <p>
     Jest, React Testing Library
   </p>
