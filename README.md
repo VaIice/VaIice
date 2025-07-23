@@ -11,6 +11,8 @@
   <h3>🖥 Backend 🖥</h3>
   <p>Node.js, Express, MySQL</p>
 
+  <br>
+
   <h3>🧪 Test 🧪</h3>
   <p>
     Jest, React Testing Library
