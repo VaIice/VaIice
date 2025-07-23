@@ -5,15 +5,11 @@
 <br>
 
 <h3 align="center">🎨 Frontend 🎨</h3>
-JavaScipt, TypeScript, React.js, Next.js
+<p>JavaScipt, TypeScript, React.js, Next.js</p>
 
 <br>
 
 <h3 align="center">🖥 Backend 🖥</h3>
-Node.js, Express, MySQL
+<p>Node.js, Express, MySQL</p>
 
-<br>
-
-<br>
-<br>
 <br>
